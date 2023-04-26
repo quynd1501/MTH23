@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mHome"
+        android:title="HOME NAY"
+        android:icon="@drawable/baseline_today_24"
+        />
+    <item android:id="@+id/mHistory"
+        android:title="LICH SU"
+        android:icon="@drawable/baseline_history_24"
+        />
+    <item android:id="@+id/mSearch"
+        android:title="TIM KIEM"
+        android:icon="@drawable/baseline_search_24"
+        />
+</menu>
